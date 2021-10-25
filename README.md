@@ -2,6 +2,13 @@
 
 This is a personal project 
 
+## Before started
+Install on your computer
+- Node v14.18.1
+- NPM v8.1.1
+- GIT
+- [Chrome react dev tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+
 ## Dependencies
 - React v17
 - redux v7.2
