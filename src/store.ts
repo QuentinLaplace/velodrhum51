@@ -3,9 +3,8 @@ import reducers from './reducer';
 
 export const store = createStore(reducers, 
   { 
-    avatar: { 
-      name: null,
-      img: null
+    drawer: { 
+      isOpen: null,
     } 
   });
 

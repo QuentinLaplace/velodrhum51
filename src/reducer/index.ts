@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
-import avatarReducer from './reducers/avatar';
+import drawerReducer from './reducers/drawer';
 
 const reducers = combineReducers({
-    avatar: avatarReducer
+    drawer: drawerReducer
 });
 
 export default reducers;
